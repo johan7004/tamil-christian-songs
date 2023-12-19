@@ -1,0 +1,9 @@
+{
+  "main": "scrapper.js",
+  "type": "module",
+  "author": "JWS",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
